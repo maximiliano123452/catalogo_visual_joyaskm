@@ -1,0 +1,357 @@
+/* ============================================================
+   💰 CONFIGURACIÓN DE PRECIOS
+   Modifica SOLO los valores de aquí abajo.
+   ============================================================ */
+:root {
+  /* ARGOLLAS DE ORO */
+  --precio-oro-01: "$32.000";
+  --precio-oro-02: "$45.000";
+  --precio-oro-03: "$38.000";
+  --precio-oro-04: "$41.000";
+  --precio-oro-05: "$29.000";
+
+  /* ARGOLLAS DE PLATA */
+  --precio-plata-01: "$18.000";
+  --precio-plata-02: "$22.000";
+  --precio-plata-03: "$19.500";
+  --precio-plata-04: "$24.000";
+  --precio-plata-05: "$21.000";
+
+  /* COLORES */
+  --gold: #C9A84C;
+  --gold-light: #E8C97A;
+  --gold-dim: #8B6914;
+  --black: #0A0A0A;
+  --black-card: #111111;
+  --white: #F5F0E8;
+  --gray: #888;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: var(--black);
+  color: var(--white);
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+header {
+  text-align: center;
+  padding: 60px 20px 40px;
+  border-bottom: 1px solid var(--gold-dim);
+}
+.header-ornament {
+  color: var(--gold);
+  font-size: 12px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  opacity: 0.7;
+}
+.logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(42px, 8vw, 72px);
+  font-weight: 300;
+  letter-spacing: 12px;
+  color: var(--white);
+  text-transform: uppercase;
+  line-height: 1;
+}
+.logo span { color: var(--gold); }
+.tagline {
+  font-size: 10px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-top: 12px;
+  opacity: 0.8;
+}
+.gold-line {
+  width: 60px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  margin: 20px auto 0;
+}
+
+.category-tabs {
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px 0;
+}
+.tab-btn {
+  background: transparent;
+  border: 1px solid var(--gold-dim);
+  color: var(--gray);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 10px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding: 14px 36px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.tab-btn:first-child { border-right: none; }
+.tab-btn.active {
+  background: var(--gold);
+  color: var(--black);
+  border-color: var(--gold);
+  font-weight: 400;
+}
+.tab-btn:hover:not(.active) {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+.section {
+  display: none;
+  padding: 50px 20px 80px;
+  max-width: 1300px;
+  margin: 0 auto;
+  animation: fadeIn 0.4s ease;
+}
+.section.active { display: block; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.section-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 4vw, 32px);
+  font-weight: 300;
+  font-style: italic;
+  color: var(--gold-light);
+  text-align: center;
+  margin-bottom: 8px;
+  letter-spacing: 3px;
+}
+.section-subtitle {
+  text-align: center;
+  font-size: 9px;
+  letter-spacing: 5px;
+  color: var(--gray);
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.product-card {
+  background: var(--black-card);
+  border: 1px solid #222;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+.product-card:hover {
+  border-color: var(--gold-dim);
+  transform: translateY(-4px);
+}
+
+.gallery-main {
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: #0d0d0d;
+}
+.gallery-main img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.gallery-main img.active {
+  display: block;
+  animation: imgFade 0.3s ease;
+}
+@keyframes imgFade {
+  from { opacity: 0.5; }
+  to   { opacity: 1; }
+}
+.img-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  color: #333;
+}
+.img-placeholder svg { width: 40px; height: 40px; opacity: 0.3; }
+.img-placeholder span {
+  font-size: 9px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  opacity: 0.3;
+}
+
+.gallery-thumbs {
+  display: flex;
+  gap: 4px;
+  padding: 8px;
+  background: #0d0d0d;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.gallery-thumbs::-webkit-scrollbar { display: none; }
+.thumb {
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: border-color 0.2s, opacity 0.2s;
+  opacity: 0.5;
+  filter: grayscale(30%);
+}
+.thumb.active {
+  border-color: var(--gold);
+  opacity: 1;
+  filter: none;
+}
+.thumb:hover { opacity: 0.9; }
+.thumb-placeholder {
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+  background: #1a1a1a;
+  border: 1.5px dashed #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #444;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.product-info {
+  padding: 20px 18px 22px;
+  border-top: 1px solid #1e1e1e;
+}
+.product-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--white);
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+.product-material {
+  font-size: 9px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: var(--gold);
+  opacity: 0.8;
+  margin-bottom: 10px;
+}
+.product-desc {
+  font-size: 11px;
+  color: var(--gray);
+  line-height: 1.7;
+  letter-spacing: 0.5px;
+  margin-bottom: 16px;
+}
+.product-price {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  font-weight: 300;
+  color: var(--gold-light);
+  letter-spacing: 1px;
+}
+.product-price::after {
+  content: " CLP";
+  font-size: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 2px;
+  color: var(--gray);
+  font-weight: 300;
+}
+
+.badge {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: var(--gold);
+  color: var(--black);
+  font-size: 8px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  font-weight: 400;
+  z-index: 2;
+}
+
+footer {
+  border-top: 1px solid #1a1a1a;
+  padding: 40px 20px;
+  text-align: center;
+}
+.footer-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 8px;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.footer-info {
+  font-size: 10px;
+  letter-spacing: 3px;
+  color: var(--gray);
+  text-transform: uppercase;
+  line-height: 2.2;
+}
+.footer-info a { color: var(--gold); text-decoration: none; }
+.footer-divider {
+  width: 40px;
+  height: 1px;
+  background: var(--gold-dim);
+  margin: 20px auto;
+}
+
+.wsp-float {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  background: #25D366;
+  color: white;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 0 4px 20px rgba(37,211,102,0.4);
+  transition: transform 0.2s, box-shadow 0.2s;
+  z-index: 100;
+}
+.wsp-float:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 28px rgba(37,211,102,0.6);
+}
+.wsp-float svg { width: 28px; height: 28px; }
+
+@media (max-width: 600px) {
+  .products-grid { grid-template-columns: 1fr 1fr; gap: 16px; }
+  .tab-btn { padding: 12px 20px; font-size: 9px; letter-spacing: 2px; }
+  .product-info { padding: 14px 12px 16px; }
+  .product-name { font-size: 15px; }
+  .product-desc { font-size: 10px; }
+}
+@media (max-width: 400px) {
+  .products-grid { grid-template-columns: 1fr; }
+}
