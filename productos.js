@@ -12,17 +12,17 @@ const PRODUCTOS = {
   oro: [
     {
       id: "oro-01",
-      nombre: "Argolla Clásica Lisa",
+      nombre:  "Argollas Espigas Abiertas",
       material: "Oro 18K",
-      descripcion: "Argolla circular lisa de acabado brillante, ideal para uso diario. Cierre mariposa seguro.",
-      precioVar: "--precio-oro-01",
+      descripcion:  "Argollas de matrimonio en oro 18K con delicado grabado de espigas artesanal. 3mm de ancho, peso aproximado 3,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "$429.900 el par",
       badge: null,
       fotos: [
-        null,   /* foto 1 — frontal        */
-        null,   /* foto 2 — lateral        */
-        null,   /* foto 3 — en oreja       */
-        null,   /* foto 4 — detalle cierre */
-        null    /* foto 5 — lifestyle      */
+        "fotos/matrimonio/matrimonio_01_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_01_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_01_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_01_estuche.jpg",
+        null
       ]
     },
     {
