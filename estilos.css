@@ -4,7 +4,7 @@
    ============================================================ */
 :root {
   /* ARGOLLAS DE ORO */
-  --precio-oro-01: '$429.900 el par';
+  --precio-oro-01: "$32.000";
   --precio-oro-02: "$45.000";
   --precio-oro-03: "$38.000";
   --precio-oro-04: "$41.000";
@@ -167,10 +167,14 @@ header {
   height: 100%;
   object-fit: cover;
   display: none;
+  transition: transform 0.4s ease;
 }
 .gallery-main img.active {
   display: block;
   animation: imgFade 0.3s ease;
+}
+.gallery-main:hover img.active {
+  transform: scale(1.15);
 }
 @keyframes imgFade {
   from { opacity: 0.5; }
