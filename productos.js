@@ -15,7 +15,7 @@ const PRODUCTOS = {
       nombre:  "Argollas Espigas Abiertas",
       material: "Oro 18K",
       descripcion:  "Argollas de matrimonio en oro 18K con delicado grabado de espigas artesanal. 3mm de ancho, peso aproximado 3,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
-      precio: "$429.900 el par",
+      precio: "$419.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_01_par_horizontal.jpg",
@@ -27,21 +27,34 @@ const PRODUCTOS = {
     },
     {
       id: "oro-02",
-      nombre: "Argolla Triángulo Oro",
+      nombre: "Argollas Asterisco",
       material: "Oro 18K",
-      descripcion: "Diseño geométrico triangular en oro amarillo. Acabado satinado en el cuerpo y bordes pulidos.",
-      precioVar: "--precio-oro-02",
+      descripcion: "Argollas de matrimonio en oro 18K con delicado grabado de asteriscos artesanal. 3mm de ancho, peso aproximado 3,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "$419.900 el par",
       badge: "Nuevo",
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_02_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_02_par_horizontal.png",
+        "fotos/matrimonio/matrimonio_02_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_02_estuche.jpg",
+        "fotos/matrimonio/matrimonio_02_mano.jpg",
+        null
+      ]
     },
     {
       id: "oro-03",
-      nombre: "Argolla Aro Delgado",
+      nombre: "Argollas Media Caña Lisa",
       material: "Oro 18K",
-      descripcion: "Aro fino de perfil redondo, muy liviano y cómodo. Disponible en diámetro mediano.",
-      precioVar: "--precio-oro-03",
+      descripcion: "Argollas de matrimonio en oro 18K media caña lisa. 3mm de ancho, peso aproximado 2,5gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "$349.900 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_03_par_horizontal.png",
+        "fotos/matrimonio/matrimonio_03_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_03_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_03_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-04",
