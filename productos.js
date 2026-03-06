@@ -58,21 +58,34 @@ const PRODUCTOS = {
     },
     {
       id: "oro-04",
-      nombre: "Argolla Torzal",
+      nombre: "Argollas Rombo",
       material: "Oro 18K",
-      descripcion: "Argolla con textura torzal retorcida. Acabado brillante que potencia el efecto visual.",
-      precioVar: "--precio-oro-04",
+      descripcion: "Argollas de matrimonio en oro 18K con delicado tallado rombos artesanal. 3mm de ancho, peso aproximado 3,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "$419.900 el par",
       badge: "Favorita",
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_04_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_04_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_04_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_04_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-05",
-      nombre: "Argolla Mini Oval",
+      nombre: "Argollas Espigas/Asterisco",
       material: "Oro 18K",
-      descripcion: "Formato oval pequeño, elegante y discreto. Perfecta para uso profesional o formal.",
-      precioVar: "--precio-oro-05",
+      descripcion: "Argollas de matrimonio en oro 18K con delicado grabado espigas y asteriscos artesanales. 3mm de ancho, peso aproximado 3,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "$429.900 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_05_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_05_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_05_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_05_estuche.jpg",
+        "fotos/matrimonio/matrimonio_05_mano.jpg",
+        null
+      ]
     }
   ],
 
