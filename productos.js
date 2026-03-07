@@ -452,10 +452,16 @@ const PRODUCTOS = {
       id: "plata-01",
       nombre: "Argolla Clásica Plata",
       material: "Plata 925",
-      descripcion: "Argolla redonda en plata esterlina 925. Acabado espejo, cierre mariposa.",
-      precio: "$18.000",
+      descripcion: "Argollas de matrimonio en plata fina 925 con oro 14K en los bordes. 7mm de ancho, diseño artesanal de delfín y conchitas en la superficie. Incluye grabación personalizada, caja de regalo y garantía indefinida. ",
+      precio: "$179.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_50_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_50_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_50_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_50_estuche.jpg",
+        null
+      ]
     },
     {
       id: "plata-02",
