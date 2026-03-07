@@ -12,7 +12,7 @@ function renderGrid(categoria) {
   const grid = document.getElementById(`grid-${categoria}`);
   const productos = PRODUCTOS[categoria];
 
-  grid.innerHTML = productos.map(p => {
+  grid.innerHTML = productos.filter(p => p.nombre && p.nombre !== "").map(p => {
     const fotosValidas = p.fotos.filter(f => f !== null);
     const totalFotos = p.fotos.length;
     const precio = p.precio || getPrecio(p.precioVar);
