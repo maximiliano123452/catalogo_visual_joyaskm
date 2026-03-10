@@ -309,10 +309,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-21",
-      nombre: "",
+      nombre: "Argollas Modelo Ingles Yin y Yang 3mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K modelo inglés con diseño Yin y Yang, superficie plana bicolor. 3mm de ancho, peso aproximado 6,5gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "919.990 el par",
       badge: null,
         fotos: [
         "fotos/matrimonio/matrimonio_21_par_horizontal.jpg",
@@ -324,10 +324,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-22",
-      nombre: "",
+      nombre: "Argollas Media Caña Lisa N°3",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K media caña de superficie lisa y pulida. 6mm de ancho, peso aproximado 6,0gr el par. incluye grabación, caja de presentación y garantia indefinida.",
+      precio: "839.990 el par",
       badge: null,
         fotos: [
         "fotos/matrimonio/matrimonio_22_par_horizontal.jpg",
@@ -339,10 +339,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-23",
-      nombre: "",
+      nombre: "Argollas Triple Bicolor 5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K bicolor, combinación de oro amarillo y oro blanco en triple banda. 5mm de ancho, peso aproximado 7,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "999.990 el par",
       badge: null,
         fotos: [
         "fotos/matrimonio/matrimonio_23_par_horizontal.jpg",
@@ -354,10 +354,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-24",
-      nombre: "",
+      nombre: "Argollas Cóncava 5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K de perfil cóncavo con superficie martillada artesanal. 5mm de ancho, peso aproximado 5,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "729.990 el par",
       badge: null,
         fotos: [
         "fotos/matrimonio/matrimonio_24_par_horizontal.jpg",
@@ -369,10 +369,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-25",
-      nombre: "",
+      nombre: "Argollas Modelo Trenza Simple 5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K con diseño de trenza simple artesanal en toda la superficie. 5mm de ancho, peso aproximado 7,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "999.990 el par",
       badge: null,
         fotos: [
         "fotos/matrimonio/matrimonio_25_par_horizontal.jpg",
@@ -384,10 +384,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-26",
-      nombre: "",
+      nombre: "Argollas Triple Media Caña Central 5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K con triple media caña central tallada artesanal. 5mm de ancho, peso aproximado 7,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "899.990 el par ",
       badge: null,
             fotos: [
         "fotos/matrimonio/matrimonio_26_par_horizontal.jpg",
@@ -399,10 +399,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-27",
-      nombre: "",
+      nombre: "Argollas Trenza Triple 5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K con diseño de trenza triple artesanal en toda la superficie. 5mm de ancho, peso aproximado 7,5gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "999.990 el par",
       badge: null,
             fotos: [
         "fotos/matrimonio/matrimonio_27_par_horizontal.jpg",
@@ -414,10 +414,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-28",
-      nombre: "",
+      nombre: "Argollas Mil Rayas N°2",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K con tallado de mil rayas artesanal en toda la superficie. 4mm de ancho, peso aproximado 4,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "559.900 el par",
       badge: null,
             fotos: [
         "fotos/matrimonio/matrimonio_28_par_horizontal.jpg",
@@ -429,10 +429,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-29",
-      nombre: "",
+      nombre: "Argollas Modelo Ingles 3mm Circones",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K modelo inglés con circones incrustados en toda la superficie. 3mm de ancho, peso aproximado 5,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "699.990 el par",
       badge: null,
             fotos: [
         "fotos/matrimonio/matrimonio_29_par_horizontal.jpg",
@@ -444,10 +444,10 @@ const PRODUCTOS = {
     },
     {
       id: "oro-30",
-      nombre: "",
+      nombre: "Argollas Modelo Zig-Zag Circón  5mm",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Argollas de matrimonio en oro 18K con diseño zig-zag y circones incrustados artesanalmente. 5mm de ancho, peso aproximado 7,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "999.990 el par",
       badge: null,
             fotos: [
         "fotos/matrimonio/matrimonio_30_par_horizontal.jpg",
