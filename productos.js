@@ -642,18 +642,30 @@ const PRODUCTOS = {
       nombre: "Argolla Martillada",
       material: "Plata 925",
       descripcion: "Textura martillada a mano que da un aspecto artesanal único. Cada pieza es irrepetible.",
-      precio: "$22.000",
+      precio: "$269.900 el par",
       badge: "Artesanal",
-      fotos: [null, null, null, null, null]
+        fotos: [
+        "fotos/matrimonio/matrimonio_51_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_51_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_51_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_51_estuche.jpg",
+        null
+      ]
     },
     {
       id: "plata-03",
       nombre: "Argolla Cuadrada Plata",
       material: "Plata 925",
       descripcion: "Formato cuadrado con esquinas redondeadas, moderno y versátil.",
-      precio: "$19.500",
+      precio: "$179.900 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+        fotos: [
+        "fotos/matrimonio/matrimonio_52_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_52_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_52_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_52_estuche.jpg",
+        null
+      ]
     },
     {
       id: "plata-04",
