@@ -449,7 +449,7 @@ const PRODUCTOS = {
       descripcion: "Argollas de matrimonio en oro 18K con diseño zig-zag y circones incrustados artesanalmente. 5mm de ancho, peso aproximado 7,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
       precio: "999.990 el par",
       badge: null,
-            fotos: [
+      fotos: [
         "fotos/matrimonio/matrimonio_30_par_horizontal.jpg",
         "fotos/matrimonio/matrimonio_30_par_diagonal1.jpg",
         "fotos/matrimonio/matrimonio_30_par_diagonal2.jpg",
@@ -459,84 +459,138 @@ const PRODUCTOS = {
     },
     {
       id: "oro-31",
-      nombre: "",
+      nombre: "Ilusiones Mil Rayas",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con tallado de mil rayas artesanal en toda la superficie. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_31_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_31_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_31_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_31_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-32",
-      nombre: "",
+      nombre: "Ilusiones Espigas Separadas",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con delicado grabado de espigas artesanal. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_32_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_32_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_32_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_32_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-33",
-      nombre: "",
+      nombre: "Ilusiones Asterisco",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con delicado grabado de asteriscos artesanal. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_33_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_33_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_33_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_33_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-34",
-      nombre: "",
+      nombre: "Ilusiones Media Caña Lisa",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K media caña de superficie lisa y pulida. 1.5mm de ancho, peso aproximado 1,6gr el par. incluye grabación, caja de presentación y garantia indefinida.",
+      precio: "199.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_34_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_34_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_34_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_34_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-35",
-      nombre: "",
+      nombre: "Ilusiones Espigas Continua",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con grabado continuo de espigas artesanal en toda la superficie. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_35_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_35_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_35_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_35_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-36",
-      nombre: "",
+      nombre: "Ilusiones Cinta",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K de superficie plana,lisa y pulida en su totalidad. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_36_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_36_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_36_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_36_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-37",
-      nombre: "",
+      nombre: "Ilusiones Diagonal",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con tallado diagonal artesanal en toda la superficie. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_37_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_37_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_37_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_37_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-38",
-      nombre: "",
+      nombre: "Ilusiones Rombo",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con tallado de rombos artesanal en toda la superficie. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+      fotos: [
+        "fotos/matrimonio/matrimonio_38_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_38_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_38_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_38_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-39",
-      nombre: "",
+      nombre: "Ilusiones Media Caña Satinadas",
       material: "Oro 18K",
-      descripcion: "",
-      precio: "",
+      descripcion: "Ilusiones en oro 18K con un delicado satinado sobre la superficie media caña. 2mm de ancho, peso aproximado 2,0gr el par. Incluye grabación personalizada, caja de regalo y garantía indefinida.",
+      precio: "289.990 el par",
       badge: null,
-      fotos: [null, null, null, null, null]
+       fotos: [
+        "fotos/matrimonio/matrimonio_39_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_39_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_39_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_39_estuche.jpg",
+        null
+      ]
     },
     {
       id: "oro-40",
