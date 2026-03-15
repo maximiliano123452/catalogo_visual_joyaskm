@@ -949,7 +949,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_71_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-23",
       nombre: "Argollas Satinadas N°2",
       material: "Plata 950",
@@ -963,7 +964,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_72_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-24",
       nombre: "Argollas Estilo Vintage",
       material: "Plata 950",
@@ -977,7 +979,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_73_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-25",
       nombre: "Argollas Planas 5mm con 7 Circones Dama",
       material: "Plata 950",
@@ -991,7 +994,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_74_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-26",
       nombre: "Argollas Espiga Continua 7mm",
       material: "Plata 925",
@@ -1005,7 +1009,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_75_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-27",
       nombre: "Argollas Tres Trenzas Envejecidas 7mm",
       material: "Plata 925",
@@ -1019,7 +1024,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_76_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-28",
       nombre: "Argollas Triple Oro Ricardo",
       material: "Plata 950",
@@ -1033,7 +1039,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_77_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-29",
       nombre: "Argollas Cinta Satinada 7mm bordes en Oro",
       material: "Plata 950",
@@ -1047,7 +1054,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_78_estuche.jpg",
         null
       ]
-    },   {
+    },  
+     {
       id: "plata-30",
       nombre: "Argollas Media Caña Zigzag 5mm",
       material: "Plata 950",
@@ -1061,7 +1069,8 @@ const PRODUCTOS = {
         "fotos/matrimonio/matrimonio_79_estuche.jpg",
         null
       ]
-    },   {
+    },   
+    {
       id: "plata-31",
       nombre: "Argollas Modelo Ingles 4mm",
       material: "Plata 950",
@@ -1076,6 +1085,156 @@ const PRODUCTOS = {
         null
       ]
     },
+    {
+      id: "plata-32",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_81_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_81_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_81_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_81_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-33",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_82_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_82_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_82_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_82_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-34",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_83_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_83_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_83_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_83_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-35",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_84_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_84_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_84_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_84_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-36",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_85_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_85_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_85_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_85_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-37",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_86_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_86_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_86_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_86_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-38",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_87_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_87_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_87_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_87_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-39",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_88_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_88_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_88_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_88_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-40",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_89_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_89_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_89_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_89_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-41",
+      nombre: "Argollas Media Caña Zigzag 5mm",
+      material: "Plata 950",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
+      precio: "$249.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_90_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_90_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_90_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_90_estuche.jpg",
+        null
+      ]
+    }, 
   ]
 
 };
