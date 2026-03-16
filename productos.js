@@ -1087,10 +1087,10 @@ const PRODUCTOS = {
     },
     {
       id: "plata-32",
-      nombre: "Argollas Media Caña Zigzag 5mm",
+      nombre: "Argollas Cuatro Ilusiones Juntas Orillas Oro y Plata 5mm",
       material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño de cuatro ilusiones juntas con los extremos en oro de 14K y el centro en plata de 950. Con un acabado, todo pulido brillante en 5mm de ancho.",
+      precio: "$269.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_81_par_horizontal.jpg",
@@ -1102,10 +1102,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-33",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Mil Rayas Anatoly 7mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano, combinan la luminosidad de la plata 925 con el resplandor cálido del oro 14K en el centro todo en 7mm de ancho, simbolizando amor equilibrado, compromiso armonioso y unión para toda la vida.  El contraste visual elegante perfecto para alianzas de boda contemporáneas.",
+      precio: "$179.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_82_par_horizontal.jpg",
@@ -1117,10 +1117,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-34",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Tejido Triple Trenza 7mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano con un diseño con un patrón tejido trenzado que combina la brillantez de la plata 925 con el toque cálido del oro 14K entrelazado todo en 7mm de ancho, simbolizando amor tejido, compromiso entrelazado y unión para toda la vida. El diseño tejido crea un efecto visual único perfecto para alianzas de boda con carácter artesanal.",
+      precio: "$179.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_83_par_horizontal.jpg",
@@ -1132,10 +1132,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-35",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Millenium 7mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño con letras MILLENIUM y grecas decorativas que combina la brillantez de la plata con el toque cálido del oro, simbolizando amor milenario, compromiso eterno y unión para toda la vida. El diseño con letras y grecas crea un estilo único perfecto para alianzas de boda con personalidad especial.",
+      precio: "$179.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_84_par_horizontal.jpg",
@@ -1147,10 +1147,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-36",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Doble Trenza envejecida 7mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano con un diseño con patrón tejido diagonal que combina la brillantez de la plata 925 con el toque cálido del oro 14K entrelazado, simbolizando amor tejido, compromiso entrelazado y unión para toda la vida, en una superficie de 7mm de ancho.",
+      precio: "$179.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_85_par_horizontal.jpg",
@@ -1162,10 +1162,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-37",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Media Caña Mil Rayas laterales en 5mm",
+      material: "Plata 925",
+      descripcion: "Clasicas y elegantes argollas hechas completamente a mano que combinan la luminosidad de la plata 925 con el toque cálido del oro 14K, simbolizando amor puro, compromiso simple y unión para toda la vida. El diseño liso con detalle dorado en el centro crea un estilo atemporal perfecto para alianzas de boda tradicionales, en una superficie de 5mm de ancho.",
+      precio: "$169.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_86_par_horizontal.jpg",
@@ -1177,10 +1177,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-38",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Lineas Diagonales 7mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano con diseño de líneas diagonales talladas que combina la brillantez de la plata con el toque cálido del oro, simbolizando amor en movimiento, compromiso dinámico y unión para toda la vida. El diseño de líneas diagonales crea un efecto visual contemporáneo perfecto para alianzas de boda actuales, en una superficie de 7mm de ancho.",
+      precio: "$179.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_87_par_horizontal.jpg",
@@ -1192,10 +1192,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-39",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Cinta continua 5mm",
+      material: "Plata 925",
+      descripcion: "Clasicas argollas hechas completamente a mano con un diseño de cinta continua central de oro 14K que combina la brillantez de la plata 925 con el toque cálido del oro, simbolizando amor estructurado, compromiso sólido y unión para toda la vida. El diseño de cinta continua crea un patrón distintivo perfecto para alianzas de boda con personalidad única en 5mm de ancho.",
+      precio: "$139.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_88_par_horizontal.jpg",
@@ -1207,10 +1207,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-40",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Argollas Media Caña clasica 5mm",
+      material: "Plata 925",
+      descripcion: "Clasicas y elegantes argollas hechas completamente a mano que combinan la luminosidad de la plata 925 con el toque cálido del oro 14K, simbolizando amor puro, compromiso simple y unión para toda la vida. El diseño liso con detalle dorado en el centro crea un estilo atemporal perfecto para alianzas de boda tradicionales, en una superficie de 5mm de ancho.",
+      precio: "$139.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_89_par_horizontal.jpg",
@@ -1222,10 +1222,10 @@ const PRODUCTOS = {
     }, 
     {
       id: "plata-41",
-      nombre: "Argollas Media Caña Zigzag 5mm",
-      material: "Plata 950",
-      descripcion: "Clasicas argollas hechas completamente a mano con diseño zigzag sobre plata pulida. Detalle especial: Argolla de dama con 4 piedras circones engastadas y acabado Todo pulido brillante en una superficie de 5mm de ancho.",
-      precio: "$249.900 el par",
+      nombre: "Ilusiones Cinta 2.5mm",
+      material: "Plata 925",
+      descripcion: "Clasicas ilusiones hechas completamente a mano con un diseño de perfil plano modelo cinta de 2.5mm de ancho que combina la luminosidad de la plata con el toque cálido del oro, simbolizando amor delicado, compromiso sutil y elegancia para toda la vida. El diseño plano cinta de 2.5mm crea un estilo fino y discreto perfecto para uso diario.",
+      precio: "$89.900 el par",
       badge: null,
       fotos: [
         "fotos/matrimonio/matrimonio_90_par_horizontal.jpg",
@@ -1235,6 +1235,66 @@ const PRODUCTOS = {
         null
       ]
     }, 
+    {
+      id: "plata-42",
+      nombre: "Ilusiones Talladas Asterisco 2mm",
+      material: "Plata 950",
+      descripcion: "Clasicas y artesanales Ilusiones hechas completamente a mano perfil plano de 2mm de ancho diseño asterisco decorativo superficie pulida con detalle asterisco.",
+      precio: "$36.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_91_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_91_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_91_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_91_estuche.jpg",
+        null
+      ]
+    },
+    {
+      id: "plata-43",
+      nombre: "Argollas Trenza Entrelazada Envejecida 5mm",
+      material: "Plata 925",
+      descripcion: "Argollas juveniles hechas completamente a mano de diseño con un perfil de 5mm de ancho, Diseño: trenza entrelazada, acabado: envejecido, superficie: textura trenzada vintage, interior: Cómodo y pulido",
+      precio: "$59.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_92_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_92_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_92_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_92_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-44",
+      nombre: "Ilusiones Media Caña Lisa 2mm",
+      material: "Plata 950",
+      descripcion: "Clasicas ilusiones hechas completamente a mano con un diseño de ancho de 2mm, diseño media caña lisa, acabado pulido brillante.",
+      precio: "$34.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_93_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_93_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_93_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_93_estuche.jpg",
+        null
+      ]
+    }, 
+    {
+      id: "plata-45",
+      nombre: "Argollas Diagonal 6mm",
+      material: "Plata 925",
+      descripcion: "Clasicas Argollas hechas completamente a mano con un diseño de centro plano con tallado diagonal en plata Fina de 925 y orillas en oro de 14K, con un acabado Centro tallado diagonal y Orillas oro pulido en una superficie de 6mm de ancho.",
+      precio: "$199.900 el par",
+      badge: null,
+      fotos: [
+        "fotos/matrimonio/matrimonio_94_par_horizontal.jpg",
+        "fotos/matrimonio/matrimonio_94_par_diagonal1.jpg",
+        "fotos/matrimonio/matrimonio_94_par_diagonal2.jpg",
+        "fotos/matrimonio/matrimonio_94_estuche.jpg",
+        null
+      ]
+    },  
   ]
 
 };
