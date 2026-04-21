@@ -80,7 +80,7 @@ renderGrid('plata');
 // ASISTENTE IA — GEMINI
 // ============================================================
 
-const GEMINI_API_KEY = "const GEMINI_API_KEY = CONFIG.GEMINI_API_KEY;";
+const GEMINI_API_KEY = CONFIG.GEMINI_API_KEY;
 
 function toggleChat() {
   const box = document.getElementById('chat-box');
@@ -135,7 +135,7 @@ Si la pregunta no es sobre productos, responde amablemente y oriéntalo. Nunca i
 
   try {
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
       {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

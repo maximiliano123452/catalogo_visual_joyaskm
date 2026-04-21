@@ -886,7 +886,6 @@ const PRODUCTOS = {
       fotos: [
         "fotos/matrimonio/matrimonio_67_par_horizontal.jpg",
         "fotos/matrimonio/matrimonio_67_par_diagonal1.jpg",
-        "fotos/matrimonio/matrimonio_67_par_diagonal2.jpg",
         "fotos/matrimonio/matrimonio_67_estuche.jpg",
         null
       ]
