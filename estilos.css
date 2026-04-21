@@ -347,8 +347,8 @@ footer {
 
 .wsp-float {
   position: fixed;
-  bottom: 28px;
-  right: 28px;
+  bottom: 24px;
+  right: 24px;
   background: #25D366;
   color: white;
   width: 56px;
@@ -384,8 +384,8 @@ footer {
 
 #chat-bubble {
   position: fixed;
-  bottom: 90px;
-  right: 20px;
+  bottom: 92px;
+  right: 24px;
   width: 56px;
   height: 56px;
   background: linear-gradient(135deg, #c9a84c, #f0d080);
@@ -407,8 +407,8 @@ footer {
 #chat-box {
   display: none;
   position: fixed;
-  bottom: 160px;
-  right: 20px;
+  bottom: 162px;
+  right: 24px;
   width: 320px;
   max-height: 450px;
   background: #1a1a1a;
